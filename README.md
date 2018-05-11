@@ -11,3 +11,7 @@ https://aws.amazon.com/ko/free/  -12month free
 
 -proto  
 kakao oven 카카오오븐  
+
+
+-mordern web 구조 그림  
+https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/
