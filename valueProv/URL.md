@@ -2,6 +2,7 @@ http://www.wikitree.co.kr/main/news_view.php?id=340948 - 실시간 업데이트�
 https://storyfunding.daum.net/episode/34733 - 대동 타코야키여지도  2018_02_03  
 -픽시  peeksy  
 https://m.blog.naver.com/PostView.nhn?blogId=elligi&logNo=220907228923&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F 
+http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000840639  
 
 http://monthly.appstory.co.kr/appchoice4701 -카카오플레이스  2013  
 http://platum.kr/archives/15808 -동네기반 SNS ‘동네몬’, 한달 만에 1만 다운로드를 돌파한 비결은? 2013  
