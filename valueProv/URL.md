@@ -8,4 +8,5 @@ http://monthly.appstory.co.kr/appchoice4701 -카카오플레이스  2013  
 http://platum.kr/archives/15808 -동네기반 SNS ‘동네몬’, 한달 만에 1만 다운로드를 돌파한 비결은? 2013  
 http://news.joins.com/article/5133048  -가까운위치 쿠폰 타쿠 2011.03.02 18:58  
 
-
+창업가  
+https://blog.toss.im/2018/06/01/team/insight/altos-ventures-startup-investment/  -투자원칙  
